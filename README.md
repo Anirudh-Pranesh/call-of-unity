@@ -4,7 +4,7 @@ unfortunately i have stopped development for this. when shooting, the gun recoil
 i spent so long trying to debug it but couldnt find the issue</br>
 </br>
 download fps6.zip for the whole source code. you can open it in unity</br>
-download build6 to only download the game
+download build6 to only get the game. run build6.exe
 
 controls : </br>
 press 1 for gun</br>
