@@ -9,3 +9,4 @@ download build6 to only download the game
 controls : </br>
 press 1 for gun</br>
 wasd for movement </br>
+there is also another key to set your health to 0 and respawn but i forgot which one it was
