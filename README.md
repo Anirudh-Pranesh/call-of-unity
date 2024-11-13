@@ -10,7 +10,7 @@ controls : </br>
 press 1 for gun</br>
 wasd for movement </br>
 shift + w for run </br>
-there is also another key to set your health to 0 and respawn but i forgot which one it was4
+there is also another key to set your health to 0 and respawn but i forgot which one it was
 
 ![image](https://github.com/user-attachments/assets/f934dba0-9656-407d-9bb8-229337b00fd9)
 
